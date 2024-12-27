@@ -246,7 +246,7 @@
   "config.jade.plugin_minecraft.harvest_tool": "Інструмент для збирання врожаю",
   "config.jade.plugin_minecraft.harvest_tool.new_line": "Почати з нового рядка",
   "config.jade.plugin_minecraft.harvest_tool.effective_tool": "Ефективний інструмент",
-  "config.jade.plugin_minecraft.harvest_tool.show_unbreakable": "Показати \"Незламне\"",
+  "config.jade.plugin_minecraft.harvest_tool.show_unbreakable": "Показати «Незламне»",
   "config.jade.plugin_minecraft.harvest_tool.creative": "Показати в режимі творчости",
   "config.jade.plugin_minecraft.harvest_tool.creative_desc": "Показувати інформацію про врожай у режимі творчости або спостерігача",
   "jade.harvest_tool.unbreakable": "Незламний",
